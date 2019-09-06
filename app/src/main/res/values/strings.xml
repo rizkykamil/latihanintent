@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">latihan intent</string>
+    <string name="move_activity">Pindah Activity</string>
+    <string name="move_with_data">Pindah Activity dengan Data</string>
+    <string name="dial_number">Dial a Number</string>
+    <string name="data_received">Data Diterima</string>
+    <string name="move_with_objek">Pindah Activity dengan Objek</string>
+    <string name="this_is_moveactivity">Ini MoveActifivity</string>
+    <string name="pindah_activity_untuk_result">Pindah Activity untuk result</string>
+    <string name="title_activity_move_actifity_with_obejek">moveActifityWithObejek</string>
+    <string name="title_activity_pindah_untuk_result">PindahActivityUntukResult</string>
+</resources>
+    
+    
