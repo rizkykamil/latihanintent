@@ -8,5 +8,6 @@ Button
 putExtra
 String
 ActionDial
+gak tau apaan
 Menggunakan Intent Implicit
 ![alt text](https://imgur.com/ytbtHS2.png)
